@@ -1,12 +1,12 @@
 # Hugging Face Transformers  - Quickly generate fun and USEFUL TRANSFORMERS - Its EASY !!!   
 
-![Code Logo](developer.png)
+![Code Logo](code.png)
 
 ## Description
 
 Welcome to the ** Hugging Face Transformers ** repository! This project demonstrates how to generate word clouds  EASILY  !!!   
 
-![Code Logo](code.png)
+![Code Logo](developer.png)
 
 ## NOTE - THIS REPOSITORY WORK IN PROGRESS 
 
