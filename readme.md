@@ -2,15 +2,17 @@
 
 ![Code Logo](code.png)
 
-## Description
-
-Welcome to the ** Hugging Face Transformers ** repository! This project demonstrates how to generate word clouds  EASILY  !!!   
+Welcome to the ** Hugging Face Transformers ** repository! This project demonstrates how to use PRE-Trained Libraries !!!   
 
 ![Code Logo](developer.png)
 
-## NOTE - THIS REPOSITORY WORK IN PROGRESS 
+## Generative AI - Natural Language Transformer
 
-Words clouds are important data science - The use NLP to determine term frequency. 
+## Sentiment Analysis 
+
+## Zero Shot Classification 
+
+## Transfer Learning 
 
 The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and Change it. Collaborate and HAVE FUN !!! 
 
@@ -18,7 +20,7 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and C
 
 ## Features
 
-- Automates boring stuff 
+- Use pre-trained Models 
 - Easily Configurable 
 - Makes your work open source 
 - Invites Collaboration
