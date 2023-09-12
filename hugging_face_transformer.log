@@ -1,0 +1,6 @@
+2023-09-12 11:18:38,273 - INFO - START hugging_face_transformer =============================================
+2023-09-12 11:18:38,273 - INFO - START hugging_face_transformer Start Time = 2023-09-12 11:18:38
+2023-09-12 11:18:38,273 - INFO - hugging_face_transformer Step 0 - Initialize the configuration file parser
+2023-09-12 11:18:38,325 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-09-12 11:18:38,325 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-09-12 11:18:45,059 - INFO - Process hugging_face_transformer Step 0 - Initializing and starting Process.
