@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Hugging Face Transformers - Solution for Hugging Face Transformers
 Solution for Hugging Face Transformers
 
@@ -9,8 +11,6 @@ Welcome to the solution **Hugging Face Transformers** - an example for your proj
 Solution for Hugging Face Transformers
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
