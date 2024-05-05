@@ -46,4 +46,7 @@ To get started with the **Hugging Face Transformers** solution repository, follo
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](hugging_face_transformers.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](hugging_face_transformers.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
