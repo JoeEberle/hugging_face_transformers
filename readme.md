@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Hugging Face Transformers - nan
-nan
+# Hugging Face Transformers - hugging_face_transformers
+hugging_face_transformers
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Hugging Face Transformers** - an example for your projects
 
-nan
+hugging_face_transformers
 
 ![Image image_filename](sample.png)
 
