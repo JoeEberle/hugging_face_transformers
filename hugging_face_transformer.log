@@ -1,6 +1,11 @@
-2023-11-25 14:41:43,152 - INFO - START hugging_face_transformer =============================================
-2023-11-25 14:41:43,152 - INFO - START hugging_face_transformer Start Time = 2023-11-25 14:41:43
-2023-11-25 14:41:43,152 - INFO - hugging_face_transformer Step 0 - Initialize the configuration file parser
-2023-11-25 14:41:43,172 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2023-11-25 14:41:43,173 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
-2023-11-25 14:41:49,547 - INFO - Process hugging_face_transformer Step 0 - Initializing and starting Process.
+2024-10-06 23:49:26,717 - INFO - START hugging_face_transformer =============================================
+2024-10-06 23:49:26,717 - INFO - START hugging_face_transformer Start Time = 2024-10-06 23:49:26
+2024-10-06 23:49:26,717 - INFO - hugging_face_transformer Step 0 - Initialize the configuration file parser
+2024-10-06 23:49:26,778 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-10-06 23:49:26,778 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-10-06 23:49:33,434 - INFO - Process hugging_face_transformer Step 0 - Initializing and starting Process.
+2024-10-06 23:50:16,846 - INFO - PERFORMANCE hugging_face_transformer The total process duration was:50.13
+2024-10-06 23:50:16,846 - INFO - PERFORMANCE hugging_face_transformer Stop Time = 2024-10-06 23:50:16
+2024-10-06 23:50:16,846 - INFO - PERFORMANCE hugging_face_transformer Low process duration less than 3 minutes:50.13
+2024-10-06 23:50:16,846 - INFO - PERFORMANCE hugging_face_transformer Performance optimization is optional
+2024-10-06 23:50:16,846 - INFO - END hugging_face_transformer =============================================
