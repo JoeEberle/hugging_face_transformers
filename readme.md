@@ -76,11 +76,8 @@ To get started with the **Hugging Face Transformers** solution repository, follo
  ![additional_image](hugging_face_transformers.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
