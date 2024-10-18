@@ -39,7 +39,7 @@ Here’s a brief overview of the **purpose and goals** of Hugging Face Transformer
 Each of these examples leverages Hugging Face’s transformer models to address specific NLP tasks, enhancing productivity and reducing the need for large amounts of labeled data or complex training processes.
 
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
