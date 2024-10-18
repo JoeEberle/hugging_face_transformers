@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Hugging Face Transformers - hugging_face_transformers
-hugging_face_transformers
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Hugging Face Transformers - hugging_face_transformers![Image image_filename](code.png)
 ## Hugging Face Overview
 
 **Hugging Face** is a leading open-source platform that focuses on **Natural Language Processing (NLP)** and **Machine Learning (ML)**, offering a vast collection of pre-trained transformer models like **BERT**, **GPT**, and **T5**. It simplifies the development, fine-tuning, and deployment of these models, making cutting-edge AI accessible to developers and researchers. Hugging Face also fosters an active community where users can share models and contribute to the ecosystem. Beyond NLP, it is expanding into other domains like **computer vision** and **audio processing**. Hugging Face is widely recognized for democratizing AI technology, promoting both **collaboration** and **innovation**.
@@ -46,9 +39,7 @@ Here’s a brief overview of the **purpose and goals** of Hugging Face Transformer
 Each of these examples leverages Hugging Face’s transformer models to address specific NLP tasks, enhancing productivity and reducing the need for large amounts of labeled data or complex training processes.
 
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Hugging Face Transformers** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -63,6 +54,9 @@ To get started with the **Hugging Face Transformers** solution repository, follo
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -72,13 +66,11 @@ To get started with the **Hugging Face Transformers** solution repository, follo
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](hugging_face_transformers.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
