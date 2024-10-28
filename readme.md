@@ -40,7 +40,7 @@ The primary purpose of **Hugging Face Transformers** is to provide an open-sourc
    - Hugging Face provides a vast collection of **pre-trained models** that can be fine-tuned for various tasks without the need to start from scratch. This saves computational resources and time, making NLP development more **efficient** and practical, even for those without extensive resources.
 
 3. **Community-Driven and Open-Source**:
-   - One of Hugging Face’s key goals is to foster an **open-source community** where developers and researchers can share models, contribute to improvements, and collaborate. This encourages continuous innovation and the democratization of powerful NLP tools, helping advance the field faster.
+   - One of Hugging Faceâ€™s key goals is to foster an **open-source community** where developers and researchers can share models, contribute to improvements, and collaborate. This encourages continuous innovation and the democratization of powerful NLP tools, helping advance the field faster.
 
 4. **Flexibility Across Domains**:
    - Hugging Face transformers are designed to be highly **versatile**, supporting tasks in numerous domains beyond NLP, including **computer vision** and **audio processing**. The goal is to make transformers a universal tool for AI research and applications.
@@ -52,7 +52,7 @@ Overall, Hugging Face Transformers has become a leading platform for those seeki
 
 ## Hugging Face Transformer Examples
 
-Here’s a brief overview of the **purpose and goals** of Hugging Face Transformer examples:
+Hereâ€™s a brief overview of the **purpose and goals** of Hugging Face Transformer examples:
 
 1. **Zero-Shot Classification**: The goal of zero-shot classification is to allow a model to classify text into predefined categories **without any prior training on those categories**. This is particularly useful in scenarios where labeled data is unavailable or costly to obtain, enabling rapid and flexible classification across various domains.
 
@@ -60,7 +60,7 @@ Here’s a brief overview of the **purpose and goals** of Hugging Face Transformer
 
 3. **Generative Text**: Generative text models, like GPT, are designed to **create human-like text** based on a given input. These models can generate stories, complete sentences, answer questions, or even write code, making them useful for creative applications, automated content generation, and conversational agents.
 
-Each of these examples leverages Hugging Face’s transformer models to address specific NLP tasks, enhancing productivity and reducing the need for large amounts of labeled data or complex training processes.
+Each of these examples leverages Hugging Faceâ€™s transformer models to address specific NLP tasks, enhancing productivity and reducing the need for large amounts of labeled data or complex training processes.
 
 
 
