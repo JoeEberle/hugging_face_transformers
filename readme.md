@@ -8,20 +8,6 @@
 ![Solution](code.png)
 
     
-## Table of Contents
-
-- [Solution Overview](#solution-overview)
-- [Who will use this ?](#who-can-use)
-- [Advantages of Using](#advantages-of-using)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Code Features](#code-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
 
 ## Hugging Face Overview
 
@@ -40,7 +26,7 @@ The primary purpose of **Hugging Face Transformers** is to provide an open-sourc
    - Hugging Face provides a vast collection of **pre-trained models** that can be fine-tuned for various tasks without the need to start from scratch. This saves computational resources and time, making NLP development more **efficient** and practical, even for those without extensive resources.
 
 3. **Community-Driven and Open-Source**:
-   - One of Hugging Face�s key goals is to foster an **open-source community** where developers and researchers can share models, contribute to improvements, and collaborate. This encourages continuous innovation and the democratization of powerful NLP tools, helping advance the field faster.
+   - One of Hugging Face’s key goals is to foster an **open-source community** where developers and researchers can share models, contribute to improvements, and collaborate. This encourages continuous innovation and the democratization of powerful NLP tools, helping advance the field faster.
 
 4. **Flexibility Across Domains**:
    - Hugging Face transformers are designed to be highly **versatile**, supporting tasks in numerous domains beyond NLP, including **computer vision** and **audio processing**. The goal is to make transformers a universal tool for AI research and applications.
@@ -52,7 +38,7 @@ Overall, Hugging Face Transformers has become a leading platform for those seeki
 
 ## Hugging Face Transformer Examples
 
-Here�s a brief overview of the **purpose and goals** of Hugging Face Transformer examples:
+Here’s a brief overview of the **purpose and goals** of Hugging Face Transformer examples:
 
 1. **Zero-Shot Classification**: The goal of zero-shot classification is to allow a model to classify text into predefined categories **without any prior training on those categories**. This is particularly useful in scenarios where labeled data is unavailable or costly to obtain, enabling rapid and flexible classification across various domains.
 
@@ -60,7 +46,7 @@ Here�s a brief overview of the **purpose and goals** of Hugging Face Transformer
 
 3. **Generative Text**: Generative text models, like GPT, are designed to **create human-like text** based on a given input. These models can generate stories, complete sentences, answer questions, or even write code, making them useful for creative applications, automated content generation, and conversational agents.
 
-Each of these examples leverages Hugging Face�s transformer models to address specific NLP tasks, enhancing productivity and reducing the need for large amounts of labeled data or complex training processes.
+Each of these examples leverages Hugging Face’s transformer models to address specific NLP tasks, enhancing productivity and reducing the need for large amounts of labeled data or complex training processes.
 
 
 
@@ -89,18 +75,17 @@ To get started with the **Hugging Face Transformers** solution repository, follo
 - Saves You Time 
 
 
-## Code Features
 
-These features are designed to provide everything you need for **Hugging Face Transformers** 
+## ⚙️ Key Features
 
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
+- ✅ **Self Documenting** Automatically identifies and annotates major steps in a notebook, making the codebase readable and well structured.
+- ✅ **Self Testing** Includes built in **unit tests** for each function to validate logic and ensure code reliability.
+- ✅ **Easily Configurable** Uses a simple **config.ini** file for centralized settings and easy customization through key value pairs.
+- ✅ **Talking Code** explains itself through inline commentary, helping you understand both **what** it does and **why** it does it.
+- ✅ **Self Logging** extends Python’s standard **logging** module for **step by step runtime insights**.
+- ✅ **Self Debugging** Includes debugging hooks and detailed error tracing to simplify development and troubleshooting.
+- ✅ **Low Code or  No Code** Designed to minimize complexity — most full solutions are under 50 lines of code.
+- ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
 ## List of Figures
