@@ -4,11 +4,7 @@
 
 ## hugging_face_transformers
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 ## Hugging Face Overview
 
 **Hugging Face** is a leading open-source platform that focuses on **Natural Language Processing (NLP)** and **Machine Learning (ML)**, offering a vast collection of pre-trained transformer models like **BERT**, **GPT**, and **T5**. It simplifies the development, fine-tuning, and deployment of these models, making cutting-edge AI accessible to developers and researchers. Hugging Face also fosters an active community where users can share models and contribute to the ecosystem. Beyond NLP, it is expanding into other domains like **computer vision** and **audio processing**. Hugging Face is widely recognized for democratizing AI technology, promoting both **collaboration** and **innovation**.
@@ -49,13 +45,7 @@ Here�s a brief overview of the **purpose and goals** of Hugging Face Transform
 Each of these examples leverages Hugging Face�s transformer models to address specific NLP tasks, enhancing productivity and reducing the need for large amounts of labeled data or complex training processes.
 
 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
